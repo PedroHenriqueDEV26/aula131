@@ -1,0 +1,25 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    border-style:dashed ;
+    box-shadow: 10px 10px 10px rgb(133, 133, 255);
+}   
+
+#status{
+    font-family: cursive;
+}
